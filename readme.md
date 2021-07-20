@@ -7,8 +7,8 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código: Treinando o modelo](https://github.com/link_do_repositorio).   
-- [Link para o código: Geração de imagens e transferência de características](https://github.com/link_do_repositorio).
+- [Link para o código: Treinando o modelo](https://github.com/danmoller/Realistic-and-Controlled-Image-Generation/blob/main/VAE%2BDiscr%20-%20Train%20-%20Rev%201.ipynb).   
+- [Link para o código: Geração de imagens e transferência de características](https://github.com/danmoller/Realistic-and-Controlled-Image-Generation/blob/main/Number_Experiments%20-%20Rev%201.ipynb).
 
 - Trabalhos relacionados:
     - [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691).
